@@ -1,0 +1,33 @@
+﻿# Build-Ausgaben
+[Bb]in/
+[Oo]bj/
+[Aa]rtifacts/
+
+# Lokale Visual-Studio-Dateien
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Benutzerbezogene IDE-Einstellungen
+.idea/
+
+# Testergebnisse und Coverage
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+
+# Protokolldateien
+*.log
+
+# Lokale Umgebungsvariablen
+.env
+.env.*
+!.env.example
+
+# Betriebssystemdateien
+.DS_Store
+Thumbs.db
+Desktop.ini
